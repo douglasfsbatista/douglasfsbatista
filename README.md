@@ -1,8 +1,8 @@
 ## Hi, I'm Douglas Batista
 <div align="center">
   <a href="https://github.com/douglasfsbatista">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=douglasfsbatista&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfsbatista&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=douglasfsbatista&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfsbatista&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
