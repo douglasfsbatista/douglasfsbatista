@@ -11,7 +11,7 @@ Sou estudante de Ciência da Computação na Universidade Federal do Agreste de 
 <div>
   <a href="https://github.com/douglasfsbatista">
   <img src="https://github-readme-stats.vercel.app/api?username=douglasfsbatista&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfsbatista&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <!-- <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfsbatista&layout=compact&langs_count=7&theme=vision-friendly-dark"/> -->
 </div> 
 
 ## Tecnologias
