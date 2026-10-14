@@ -1,6 +1,6 @@
 ## Olá! Me chamo Douglas Filipe S. Batista 🖐️
 
-Sou estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco - UFAPE. Atualmente atuando como Desenvolvedor Web Full Stack utilizando PHP/Laravel no Laboratório Multidisciplinar de Tecnologias Sociais - LMTS.
+Sou estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco - UFAPE. Atualmente atuando como Desenvolvedor Web Full Stack utilizando PHP/Laravel e no projeto ALFA-EJA Brasil, realizado pelo Instituto Paulo Freire em parceria com a Petrobrás.
 
 <div align="center">
     </br>
