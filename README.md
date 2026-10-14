@@ -1,4 +1,4 @@
-## Olá! Me chamo Douglas Batista 🖐️
+## Olá! Me chamo Douglas Filipe S. Batista 🖐️
 
 Sou estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco - UFAPE. Atualmente atuando como Desenvolvedor Web Full Stack utilizando PHP/Laravel no Laboratório Multidisciplinar de Tecnologias Sociais - LMTS.
 
